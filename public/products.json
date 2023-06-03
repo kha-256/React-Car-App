@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Car1",
+      "description": "Introducing the sleek and powerful XYZ Car. The epitome of automotive excellence.",
+      "price": 20000,
+      "manufacturer": "Manufacturer 1",
+      "image": "/images/car1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Car2",
+      "description": "Introducing the sleek and powerful XYZ Car. The epitome of automotive excellence.",
+      "price": 25000,
+      "manufacturer": "Manufacturer 2",
+      "image": "/images/car6.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Car3",
+      "description": "Introducing the sleek and powerful XYZ Car. The epitome of automotive excellence.",
+      "price": 30000,
+      "manufacturer": "Manufacturer 3",
+      "image": "/images/car3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Car4",
+      "description": "Introducing the sleek and powerful XYZ Car. The epitome of automotive excellence.",
+      "price": 35000,
+      "manufacturer": "Manufacturer 4",
+      "image": "/images/car4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Car5",
+        "description": "Introducing the sleek and powerful XYZ Car. The epitome of automotive excellence.",
+        "price": 35000,
+        "manufacturer": "Manufacturer 5",
+        "image": "/images/car5.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Car6",
+        "description": "Introducing the sleek and powerful XYZ Car. The epitome of automotive excellence.",
+        "price": 35000,
+        "manufacturer": "Manufacturer 6",
+        "image": "/images/car6.jpg"
+      }
+  ]
+  

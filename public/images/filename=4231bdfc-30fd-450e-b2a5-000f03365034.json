@@ -1,0 +1,147 @@
+{
+  "Attachments": true,
+  "Progress": {
+    "completedLearningItems": [
+      {
+        "title": "learn.azure.intro-to-azure-fundamentals.introduction",
+        "type": "unit",
+        "completedAt": "2022-06-10T16:17:59.1735534Z"
+      },
+      {
+        "title": "learn.azure.intro-to-azure-fundamentals.what-is-cloud-computing",
+        "type": "unit",
+        "completedAt": "2022-06-10T16:17:59.5693785Z"
+      },
+      {
+        "title": "learn.azure.intro-to-azure-fundamentals.what-is-microsoft-azure",
+        "type": "unit",
+        "completedAt": "2022-06-10T16:17:59.9104326Z"
+      }
+    ]
+  },
+  "Certifications": null,
+  "Lists": null,
+  "Challenges": null,
+  "XP": {
+    "totalPoints": 300,
+    "level": {
+      "levelNumber": 1,
+      "pointsLow": 0,
+      "pointsHigh": 1799
+    },
+    "nextLevelNumber": 2,
+    "currentLevelPointsEarned": 300,
+    "pointsToNextLevel": 1500,
+    "achievements": []
+  },
+  "TechProfile": {
+    "email": "khadijanoorhashmi@gmail.com",
+    "locale": "en-us",
+    "country": "PK",
+    "contactPointTopicSetting": "OptInExplicit",
+    "gsi": false,
+    "isAvatarTakenDown": null,
+    "isInstructor": false,
+    "isQnaModerator": false,
+    "source": "docs",
+    "acceptedPrivacyNotice": null,
+    "authenticationModes": [
+      {
+        "id": "0003400129B0D358",
+        "type": "MSA",
+        "tenantId": "9188040d-6c67-4c5b-b112-36a304b66dad",
+        "upn": "khadijanoorhashmi@gmail.com",
+        "oid": "00000000-0000-0000-546c-1e6c198fa356",
+        "dateAcceptedPrivacyNotice": "2022-06-10T16:14:52.604355+00:00",
+        "dateAdded": "2022-06-10T16:14:52.6043551+00:00"
+      }
+    ],
+    "interests": null,
+    "groups": null,
+    "transcriptSettings": {
+      "publicLink": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      },
+      "print": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "certificationSettings": {
+      "print": {
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      },
+      "share": {
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "qnaEmailPreferences": {
+      "allEmail": false,
+      "autoFollowAsked": true,
+      "autoFollowAnswered": true,
+      "autoFollowCommented": true,
+      "autoFollowTagged": true,
+      "emailEventSettings": {
+        "newMention": "instant",
+        "newModeration": "instant",
+        "answerPosted": "instant",
+        "answerAccepted": "instant",
+        "commentPosted": "instant",
+        "questionUpdated": "off",
+        "questionPosted": "off",
+        "unansweredQuestions": "off",
+        "newFollower": "off",
+        "answerUpdated": "off"
+      }
+    },
+    "sharingId": "FD20609EBBE93A0",
+    "userId": "4231bdfc-30fd-450e-b2a5-000f03365034",
+    "userName": "KhadijaNoorHashmi-9182",
+    "displayName": "Khadija Noor Hashmi",
+    "avatarUrl": null,
+    "avatarThumbnailUrl": null,
+    "isPrivate": false,
+    "affiliations": [],
+    "qnaUserId": null,
+    "followerCount": 0,
+    "followingCount": 0,
+    "answersAccepted": 0,
+    "reputationPoints": 0,
+    "createdOn": "6/10/2022 4:14:52 PM"
+  },
+  "Q&A": {
+    "docsId": "4231bdfc-30fd-450e-b2a5-000f03365034",
+    "questions": [],
+    "answers": [],
+    "comments": []
+  },
+  "VerifiableCredentials": {
+    "docsId": "4231bdfc-30fd-450e-b2a5-000f03365034",
+    "userCredentials": []
+  },
+  "Ratings": null,
+  "Assessments": null,
+  "NextSteps": {
+    "docsId": "4231bdfc-30fd-450e-b2a5-000f03365034",
+    "dismissals": [],
+    "enrollments": [
+      {
+        "id": "2ee94728-3ed3-404d-8448-0d284fa9a22f",
+        "partitionKey": "4231bdfc-30fd-450e-b2a5-000f03365034",
+        "sourceType": "certification",
+        "sourceId": "certification.azure-fundamentals",
+        "_ts": 1654877882
+      }
+    ]
+  },
+  "SkillAssessment": null
+}
