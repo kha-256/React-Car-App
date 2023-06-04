@@ -66,6 +66,7 @@ outline: none;
     justify-items: center; /* Add this property to centralize items horizontally */
     margin: 20px;
     padding: 10px;
+    min-height: 390px;
     
   }
   
@@ -105,7 +106,7 @@ outline: none;
 
   .product{
     width: 80%;
-    height: 400px;
+  min-height: 463px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -135,18 +136,19 @@ outline: none;
    padding-top: 30px;
    width: 400px;
   }
+
+  .loading{
+    width: 80%;
+  min-height: 463px;
+    
+  }
   
   /* Footer */
 
-footer {
-  width: 100%;
-  background-color: #112641;
-  margin-top: auto;
-}
+
 .footer-wrapper {
-  display: flex;
-  min-height: 30vh;
-  flex-direction: column;
+  background-color: #112641;
+
 }
 
 .content {

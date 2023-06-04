@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './styles.css';
+import Footer from './Footer';
 
 function Home({ products, searchTerm }) {
   const navigate = useNavigate();
@@ -15,6 +16,7 @@ function Home({ products, searchTerm }) {
   };
 
   return (
+    <>
     <div className="home">
       <div className="product-list">
         {filteredProducts.map((product) => (
@@ -31,7 +33,11 @@ function Home({ products, searchTerm }) {
           </div>
         ))}
       </div>
+      
     </div>
+  
+    </>
+  
   );
 }
 

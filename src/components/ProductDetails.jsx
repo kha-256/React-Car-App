@@ -1,10 +1,15 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
+import Footer from './Footer';
 import './styles.css';
 
-function ProductDetail({ searchTerm }) {
+function ProductDetail({ products, searchTerm }) {
   const { id } = useParams();
   const [product, setProduct] = useState(null);
+
+  const filteredProducts = products.filter((product) =>
+  product.name.toLowerCase().includes(searchTerm?.toLowerCase() || '')
+);
 
   useEffect(() => {
     // Fetch product detail based on ID
@@ -26,10 +31,11 @@ function ProductDetail({ searchTerm }) {
   };
 
   if (!product) {
-    return <div>Loading...</div>;
+    return <div className='loading'>Loading...</div>;
   }
 
   return (
+    <>
     <div className="product">
       <div className='product-image'>
         <img src={product.image} alt="" className="carimages" />
@@ -41,6 +47,8 @@ function ProductDetail({ searchTerm }) {
         <p style={{ fontSize: '20px' }}><b>Manufacturer:</b> {product.manufacturer}</p>
       </div>
     </div>
+    
+    </>
   );
 }
 
